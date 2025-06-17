@@ -1,4 +1,4 @@
-tudent Enrollment Form
+Student Enrollment Form
 Description:
 This project is a web-based Student Enrollment Form designed to store student records using JsonPowerDB. It allows users to add new students, update existing records, and reset the form as needed.
 
